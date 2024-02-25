@@ -9,7 +9,6 @@
 		"sourceMap": false,
 		"moduleResolution": "node",
 		"esModuleInterop": true,
-		"types": ["node"]
 	},
 	"tsc-alias": {
 		"resolveFullPaths": true,
